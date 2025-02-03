@@ -1,1 +1,1 @@
-# CSE306
+# Git exercise in 306
